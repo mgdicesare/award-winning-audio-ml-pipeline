@@ -84,7 +84,7 @@ The code is organized to encourage reproducible experimentation through:
 
 If you use or refer to this code, please cite the associated paper:
 
-M. G. Di Cesare, D. Perpetuini, D. Cardone, A. Merla,  
+M. G. Di Cesare, D. Cardone, A. Merla, D. Perpetuini, 
 *Advancing Voice Authentication: Insights from Cepstral Coefficients and Recursive Feature Elimination in Speech Signal*,  
 Proceedings of the 12th International Conference on E-Health and Bioengineering (EHB 2024).  
 Available at: https://ieeexplore.ieee.org/abstract/document/10805645
